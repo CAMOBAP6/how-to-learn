@@ -1,0 +1,10 @@
+
+.logo_place_header{
+    position: absolute;
+  display: flex;
+  top:30px;
+  left: 64px;
+  background-image: url(../../../images/logo_place_header.svg);
+  z-index: 5;
+  }
+  
