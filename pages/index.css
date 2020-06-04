@@ -19,15 +19,3 @@
 @import url(../blocks/card/card.css);
 @import url(../blocks/rotation/rotation.css);
 
-img  {
-    border: orangered solid 1px;
-}
-ul {
-    border: orangered solid 1px;  
-}
-div {
-    border: orangered solid 1px;
-}
-h3 {
-    border: orangered solid 1px;
-}
