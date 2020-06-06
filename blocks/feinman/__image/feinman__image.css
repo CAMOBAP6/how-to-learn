@@ -1,12 +1,12 @@
-.feinman__image{
+.feinman__image {
     position: absolute;
     display: flex;
-  width: 867px;
-  height: 637px;
-  bottom: 0px;
-  left:0px ;
-  background-size: contain;
-  background-position: left;
-  background-repeat: no-repeat;
-  z-index: 0;
-  }
+    width: 867px;
+    height: 637px;
+    bottom: 0px;
+    left: 0px;
+    background-size: contain;
+    background-position: left;
+    background-repeat: no-repeat;
+    z-index: 0;
+}

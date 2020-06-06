@@ -1,4 +1,8 @@
 .resources__logo {
     flex: 0 1 270px;
     height: 38px;
-  }
+}
+
+.resources__logo:hover {
+    opacity: 0.35;
+}

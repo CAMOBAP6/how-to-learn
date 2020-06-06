@@ -2,11 +2,19 @@
 @import url(./__image/card__image.css);
 @import url(./__item/card__item.css);
 @import url(./__title/cards__title.css);
-.card{
+.card {
     width: 920px;
     margin: 0 auto 0 auto;
     height: auto;
-      display: flex;
-      flex-wrap: wrap;
-      justify-content: space-between;
-  }
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+}
+
+.card::after {
+    content: "";
+    width: 240px;
+    height: 0;
+    margin-top: 60px;
+    text-align: center;
+}
